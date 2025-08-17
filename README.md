@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Hajer Noomene</h1>
-<h3 align="center">Engineer in Advanced Technologies | Future Product Owner | Creative Tech Enthusiast</h3>
+<h3 align="center">Engineer in Advanced Technologies | Creative Tech Enthusiast</h3>
 
 ###
 
