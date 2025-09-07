@@ -23,7 +23,7 @@
 <h2 align="left">🛠 My Tech Toolbox</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,androidstudio,flutter,figma,sqlite,html,css,js,php,nodejs,mysql,py,java,git" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,androidstudio,flutter,figma,sqlite,html,css,js,php,nodejs,mysql,java,git" />
 </div>
 
 <div align="left">
