@@ -16,7 +16,6 @@
 
 - 💡 I love turning simple ideas into smart, impactful solutions  
 - 🔧 I enjoy designing interfaces and building real-world apps with a focus on usability  
-- 📊 I'm exploring roles like **Product Owner**, **Tech Consultant**, or **Scrum Master**  
 - 🤝 I believe in teamwork, clean design, and practical innovation  
 
 ###
