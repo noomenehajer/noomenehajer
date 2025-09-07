@@ -6,7 +6,7 @@
 <p align="center">
 🌍 Based in Tunisia & driven by purpose <br>
 🎓 Engineering student at ENSTA Borj Cédria <br>
-🚀 Interested in project management, product ownership, and emerging technologies <br>
+🚀 Interested in project management and emerging technologies <br>
 📱 Passionate about meaningful design, mobile & web development, AI, and modern engineering <br>
 </p>
 
