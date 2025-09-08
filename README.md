@@ -1,56 +1,49 @@
 <h1 align="center">Hey 👋 I'm Hajer Noomene</h1>
 <h3 align="center">Engineer in Advanced Technologies | Creative Tech Enthusiast</h3>
 
-###
-
 <p align="center">
 🌍 Based in Tunisia & driven by purpose <br>
-🎓 Engineering student at ENSTA Borj Cédria <br>
+🎓 Engineering student at ENSTA Borj Cédria, last year in Advanced Technologies <br>
 🚀 Interested in project management and emerging technologies <br>
 📱 Passionate about meaningful design, mobile & web development, AI, and modern engineering <br>
 </p>
 
-###
+<h2 align="left">👩‍🎓 Bio (French)</h2>
+<p>
+Étudiante en dernière année d’ingénierie en Technologies Avancées à l’ENSTA Borj Cédria, option Systèmes Énergétiques et Technologies Propres, avec une solide formation en développement des systèmes d’information (ISET Bizerte).<br><br>
+Polyvalente, autonome et curieuse, je possède des compétences en intelligence artificielle, data science, développement mobile et web, ainsi qu’en gestion de projets agiles, coordination d’équipes et analyse fonctionnelle.<br><br>
+Je suis à la recherche d’un stage de fin d’études pour mettre en pratique mes compétences techniques et managériales dans un environnement innovant.
+</p>
 
 <h2 align="left">👩‍💻 About Me</h2>
-
-- 💡 I love turning simple ideas into smart, impactful solutions  
-- 🔧 I enjoy designing interfaces and building real-world apps with a focus on usability  
-- 🤝 I believe in teamwork, clean design, and practical innovation  
-
-###
+<ul>
+  <li>💡 I love turning simple ideas into smart, impactful solutions</li>
+  <li>🔧 I enjoy designing interfaces and building real-world apps with a focus on usability</li>
+  <li>🤝 I believe in teamwork, clean design, and practical innovation</li>
+</ul>
 
 <h2 align="left">🛠 My Tech Toolbox</h2>
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,kotlin,androidstudio,flutter,figma,sqlite,html,css,js,php,nodejs,mysql,java,git" />
 </div>
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=photoshop,vue,angular,bootstrap,laravel,cpp,r,matlab" />
 </div>
 
-###
-
 <h2 align="left">📊 GitHub Stats</h2>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noomenehajer&layout=compact&theme=dracula&langs_count=8" height="150" />
 </div>
 
-###
-
 <h2 align="left">🎯 Currently Learning</h2>
-
-- Agile & Scrum practices for real-world team management  
-- Project management tools like Jira  
-- Embedded AI systems and product design in engineering  
-- Data-driven decision-making for tech solutions  
-
-###
+<ul>
+  <li>Agile & Scrum practices for real-world team management</li>
+  <li>Project management tools like Jira</li>
+  <li>Embedded AI systems and product design in engineering</li>
+  <li>Data-driven decision-making for tech solutions</li>
+</ul>
 
 <h2 align="left">📫 Let's Connect</h2>
-
 <div align="left">
   <a href="mailto:hajer.noomene@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" />
@@ -63,7 +56,5 @@
   </a>
 </div>
 
-###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
-
