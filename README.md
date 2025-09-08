@@ -3,23 +3,23 @@
 
 <p align="center">
 🌍 Based in Tunisia & driven by purpose <br>
-🎓 Engineering student at ENSTA Borj Cédria, last year in Advanced Technologies <br>
+🎓 Engineering student at ENSTA Borj Cédria, final year in Advanced Technologies, specializing in Energy Systems and Clean Technologies <br>
 🚀 Interested in project management and emerging technologies <br>
 📱 Passionate about meaningful design, mobile & web development, AI, and modern engineering <br>
 </p>
 
-<h2 align="left">👩‍🎓 Bio (French)</h2>
+<h2 align="left">👩‍🎓 About Me</h2>
 <p>
-Étudiante en dernière année d’ingénierie en Technologies Avancées à l’ENSTA Borj Cédria, option Systèmes Énergétiques et Technologies Propres, avec une solide formation en développement des systèmes d’information (ISET Bizerte).<br><br>
-Polyvalente, autonome et curieuse, je possède des compétences en intelligence artificielle, data science, développement mobile et web, ainsi qu’en gestion de projets agiles, coordination d’équipes et analyse fonctionnelle.<br><br>
-Je suis à la recherche d’un stage de fin d’études pour mettre en pratique mes compétences techniques et managériales dans un environnement innovant.
+I am a final-year engineering student in Advanced Technologies at ENSTA Borj Cédria, specializing in Energy Systems and Clean Technologies, with a strong background in information systems development from ISET Bizerte.<br><br>
+Versatile, autonomous, and curious, I possess skills in artificial intelligence, data science, mobile and web development, as well as agile project management, team coordination, and functional analysis.<br><br>
+I am currently seeking a final internship opportunity to put my technical and managerial skills into practice in an innovative environment.
 </p>
 
-<h2 align="left">👩‍💻 About Me</h2>
+<h2 align="left">👩‍💻 What I Love</h2>
 <ul>
-  <li>💡 I love turning simple ideas into smart, impactful solutions</li>
-  <li>🔧 I enjoy designing interfaces and building real-world apps with a focus on usability</li>
-  <li>🤝 I believe in teamwork, clean design, and practical innovation</li>
+  <li>💡 Turning simple ideas into smart, impactful solutions</li>
+  <li>🔧 Designing user-friendly interfaces and building real-world applications</li>
+  <li>🤝 Valuing teamwork, clean design, and practical innovation</li>
 </ul>
 
 <h2 align="left">🛠 My Tech Toolbox</h2>
