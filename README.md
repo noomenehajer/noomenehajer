@@ -57,14 +57,7 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 
 <!-- GitHub Contribution Graph -->
 <img src="https://ghchart.rshah.org/noomenehajer" alt="Hajer's GitHub chart" width="600"/>
-
 <br>
-
-<!-- GitHub Stats Badges -->
-<img src="https://img.shields.io/github/followers/noomenehajer?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/noomenehajer?label=Stars&style=for-the-badge" />
-<img src="https://img.shields.io/github/issues/noomenehajer?label=Open%20Issues&style=for-the-badge" />
-
 </div>
 
 ---
