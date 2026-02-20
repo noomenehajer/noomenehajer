@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
+<br/>
 
 </div>
 
@@ -80,6 +81,4 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 - 🤖 **Intelligent automation** for engineering and business workflows  
 
 ---
-
-<br clear="both">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif"/>
