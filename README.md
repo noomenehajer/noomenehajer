@@ -4,10 +4,10 @@
 
 <p align="center">
 🌍 Based in Tunisia <br>
-🎓 Final-year Engineering Student in Advanced Technologies at ENSTA Borj Cedria <br>
+🎓 Final-Year Engineering Student in Advanced Technologies at ENSTA Borj Cedria <br>
 💻 Bachelor's in Information Systems Development from ISET Bizerte <br>
-✨ Passionate about building scalable, intelligent, and user-centered software solutions <br>
-🚀 Currently seeking opportunities in Software Engineering, Full-Stack Development, AI, and Project Management
+✨ Passionate about building **scalable, full-stack, and AI-driven software solutions** <br>
+🚀 Seeking opportunities in **Software Engineering, Full-Stack Development, AI, and Project Management**
 </p>
 
 ---
@@ -15,19 +15,19 @@
 ## 👩‍🎓 About Me
 
 I am a **final-year engineering student** with a strong focus on **software engineering, full-stack development, and AI-driven applications**.  
-I design and implement scalable web applications, combining **robust backends**, **interactive frontends**, and **data-driven features**.  
+I design and build scalable web applications that combine **robust backend systems**, **interactive frontends**, and **intelligent data-driven features**.  
 
-Beyond coding, I am passionate about **product vision, agile workflows, and team collaboration**, enjoying projects that require both **strategic thinking** and **technical execution**.  
+Beyond coding, I am deeply interested in **product vision, agile methodologies, and team coordination**, enjoying projects that require both **strategic thinking** and **technical execution**.
 
 ---
 
 ## 👩‍💻 What I Build
 
-- 💡 AI-driven applications and intelligent automation systems  
-- 🔧 Scalable and maintainable backend architectures  
-- 🎨 Clean and intuitive frontend experiences  
-- 🤝 Collaborative solutions that merge technical depth with thoughtful design  
-- 📈 Project management workflows to ensure timely and quality delivery  
+- 💡 **AI-powered applications** and intelligent automation systems  
+- 🔧 **Scalable and maintainable backend architectures**  
+- 🎨 **Clean and interactive full-stack experiences**  
+- 🤝 **Collaborative solutions** that combine technical depth with thoughtful design  
+- 📈 **Project management workflows** to ensure timely and high-quality delivery  
 
 ---
 
@@ -38,7 +38,7 @@ Beyond coding, I am passionate about **product vision, agile workflows, and team
 ### **Core Languages & Tools**
 <img src="https://skillicons.dev/icons?i=python,java,cpp,r,matlab,git" />
 
-### **Web & Mobile**
+### **Web & Mobile Development**
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,angular,nodejs,php,flutter,androidstudio" />
 
 ### **Backend & Databases**
@@ -61,11 +61,11 @@ Beyond coding, I am passionate about **product vision, agile workflows, and team
 
 ## 🎯 Currently Exploring
 
-- 🚀 Full-Stack architectures and scalable cloud systems  
-- 🧠 AI & ML integration in real-world applications  
-- 🔎 Data analytics and decision support systems  
-- 📈 Agile project management and team coordination  
-- 🤖 Intelligent automation for business and engineering workflows  
+- 🚀 **Full-Stack architectures** and scalable cloud systems  
+- 🧠 **AI & ML integration** in real-world applications  
+- 🔎 **Data analytics** and decision-support systems  
+- 📈 **Agile project management** and team coordination  
+- 🤖 **Intelligent automation** for engineering and business workflows  
 
 ---
 
