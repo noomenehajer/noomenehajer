@@ -54,11 +54,10 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Overall GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=noomenehajer&show_icons=true&theme=dracula&count_private=true" height="150"/>
-  <br>
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noomenehajer&layout=compact&theme=dracula&langs_count=8" height="150"/>
+
+<!-- Top Languages -->
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noomenehajer&layout=compact&theme=radical&langs_count=8&hide=html"/>
+
 </div>
 
 ---
