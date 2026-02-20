@@ -83,8 +83,6 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 
 <br clear="both">
 
-*Made with 💖 by Hajer*
-
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif"/>
