@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hey, I'm Hajer Noomene</h1>
 <h3 align="center">Final-Year Engineering Student | Software Engineer | Full-Stack & AI Developer</h3>
+<p align="center">Turning ideas into scalable, intelligent, and user-friendly software 🚀</p>
 
 <p align="center">
 🌍 Based in Tunisia <br>
-🎓 Final-year Engineering Student at ENSTA Borj Cédria (Advanced Technologies – Energy Systems & Clean Tech) <br>
-💻 Bachelor's in Information Systems Development (ISET Bizerte) <br>
+🎓 Final-year Engineering Student in Advanced Technologies at ENSTA Borj Cedria <br>
+💻 Bachelor's in Information Systems Development from ISET Bizerte <br>
 ✨ Passionate about building scalable, intelligent, and user-centered software solutions <br>
 🚀 Currently seeking opportunities in Software Engineering, Full-Stack Development, AI, and Project Management
 </p>
