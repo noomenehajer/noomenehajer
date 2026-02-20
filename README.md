@@ -1,37 +1,32 @@
 <h1 align="center">👋 Hey, I'm Hajer Noomene</h1>
-<h3 align="center">Final-Year Engineering Student | AI & Intelligent Systems | Software Development Enthusiast</h3>
+<h3 align="center">Final-Year Engineering Student | Software Engineer | Full-Stack & AI Developer | Project Management Enthusiast</h3>
 
 <p align="center">
 🌍 Based in Tunisia <br>
-🎓 Final-year engineering student at ENSTA Borj Cédria (Advanced Technologies – Energy Systems & Clean Tech) <br>
+🎓 Final-year Engineering Student at ENSTA Borj Cédria (Advanced Technologies – Energy Systems & Clean Tech) <br>
 💻 Bachelor's in Information Systems Development (ISET Bizerte) <br>
-✨ Passionate about AI, data-driven systems, clean design, and building smart, scalable solutions <br>
-🚀 Currently seeking a final-year internship in AI, software engineering, or intelligent automation
+✨ Passionate about building scalable, intelligent, and user-centered software solutions <br>
+🚀 Currently seeking opportunities in Software Engineering, Full-Stack Development, AI, and Project Management
 </p>
 
 ---
 
 ## 👩‍🎓 About Me
 
-I am a final-year engineering student specializing in advanced technologies and intelligent systems.  
-With a strong foundation in **systems development** and **AI engineering**, I have built projects that combine:
+I am a **final-year engineering student** with a strong focus on **software engineering, full-stack development, and AI-driven applications**.  
+I design and implement scalable web applications, combining **robust backends**, **interactive frontends**, and **data-driven features**.  
 
-- ✅ Python-based predictive analytics  
-- ✅ Machine Learning & data processing  
-- ✅ Full-stack development (MEAN, Vue.js, Spring Boot, PHP)  
-- ✅ Smart automation systems  
-
-Curious, fast-learning and detail-oriented, I thrive in environments where innovation meets real-world impact.  
-I enjoy bridging technical development with functional understanding to deliver clean, reliable, and user-centered solutions.
+Beyond coding, I am passionate about **product vision, agile workflows, and team collaboration**, enjoying projects that require both **strategic thinking** and **technical execution**.  
 
 ---
 
-## 👩‍💻 What I Enjoy Building
+## 👩‍💻 What I Build
 
-- 💡 Intelligent systems that automate decisions or extract value from data  
-- 🔧 Scalable and clean backend architectures  
-- 🎨 Simple, intuitive interfaces focused on real user needs  
-- 🤝 Team-oriented solutions combining technical depth with thoughtful design  
+- 💡 AI-driven applications and intelligent automation systems  
+- 🔧 Scalable and maintainable backend architectures  
+- 🎨 Clean and intuitive frontend experiences  
+- 🤝 Collaborative solutions that merge technical depth with thoughtful design  
+- 📈 Project management workflows to ensure timely and quality delivery  
 
 ---
 
@@ -48,8 +43,8 @@ I enjoy bridging technical development with functional understanding to deliver 
 ### **Backend & Databases**
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,postgres" />
 
-### **Design & Prototyping**
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+### **Design & Project Management**
+<img src="https://skillicons.dev/icons?i=figma,jira,trello" />
 
 </div>
 
@@ -65,11 +60,11 @@ I enjoy bridging technical development with functional understanding to deliver 
 
 ## 🎯 Currently Exploring
 
-- 🚀 AI-assisted development & automation  
-- 🧠 LLM applications & intelligent documentation  
-- 🔎 Data modeling & decision-making systems  
-- 🛠 Embedded AI & smart engineering solutions  
-- 📈 Project management workflows (Agile, Jira)  
+- 🚀 Full-Stack architectures and scalable cloud systems  
+- 🧠 AI & ML integration in real-world applications  
+- 🔎 Data analytics and decision support systems  
+- 📈 Agile project management and team coordination  
+- 🤖 Intelligent automation for business and engineering workflows  
 
 ---
 
@@ -90,4 +85,3 @@ I enjoy bridging technical development with functional understanding to deliver 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-
