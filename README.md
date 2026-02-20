@@ -7,32 +7,32 @@
 <div align="center">
 <img src="https://i.pinimg.com/736x/72/7a/5e/727a5e98bf4d97c8d448215b96ee736f.jpg" width="200" align="right" style="border-radius: 15px; margin-left: 20px;">
 <h1>👋 Hey, I'm Hajer Noomene</h1>
-<h3>Final-Year Engineering Student | Full-Stack & AI Developer</h3>
-<p>Turning ideas into intelligent and user-friendly software 🚀</p>
+<h3>Final-Year Engineering Student | Software Engineer | Full-Stack & AI Developer</h3>
+<p>Turning ideas into scalable, intelligent, and user-friendly software 🚀</p>
 <p>
-🌍 Tunisia <br>
-🎓 Advanced Technologies, ENSTA Borj Cedria <br>
-💻 B.Sc. in Information Systems Development, ISET Bizerte <br>
-✨ Passionate about <b>scalable, AI-driven full-stack solutions</b> <br>
-🚀 Open to opportunities in <b>Software Engineering, Full-Stack Development, AI, and Project Management</b>
+🌍 Based in Tunisia <br>
+🎓 Final-Year Engineering Student in Advanced Technologies at ENSTA Borj Cedria <br>
+💻 Bachelor's in Information Systems Development from ISET Bizerte <br>
+✨ Passionate about building <b>scalable, full-stack, and AI-driven software solutions</b> <br>
+🚀 Seeking opportunities in <b>Software Engineering, Full-Stack Development, AI, and Project Management</b>
 </p>
 </div>
 
 ---
 
 ## 👩‍🎓 About Me
-I am a **final-year engineering student** focused on **software engineering and AI applications**.  
-I design **scalable web apps** with **robust backends**, **interactive frontends**, and **data-driven features**.  
-I enjoy projects that combine **technical execution** with **strategic planning**, including **agile workflows and team coordination**.
+I am a **final-year engineering student** with a strong focus on **software engineering, full-stack development, and AI-driven applications**.  
+I design and build scalable web applications that combine **robust backend systems**, **interactive frontends**, and **intelligent data-driven features**.  
+Beyond coding, I am deeply interested in **product vision, agile methodologies, and team coordination**, enjoying projects that require both **strategic thinking** and **technical execution**.
 
 ---
 
 ## 👩‍💻 What I Build
-- 💡 **AI-powered apps** and intelligent automation  
-- 🔧 **Scalable backend architectures**  
-- 🎨 **Interactive full-stack experiences**  
-- 🤝 **Collaborative, design-conscious solutions**  
-- 📈 **Project management workflows** for timely delivery  
+- 💡 **AI-powered applications** and intelligent automation systems  
+- 🔧 **Scalable and maintainable backend architectures**  
+- 🎨 **Clean and interactive full-stack experiences**  
+- 🤝 **Collaborative solutions** that combine technical depth with thoughtful design  
+- 📈 **Project management workflows** to ensure timely and high-quality delivery  
 
 ---
 
@@ -40,7 +40,7 @@ I enjoy projects that combine **technical execution** with **strategic planning*
 
 <div align="left">
 
-### **Core Languages**
+### **Core Languages & Tools**
 <img src="https://skillicons.dev/icons?i=python,java,cpp,r,matlab,git" />
 
 ### **Web & Mobile**
@@ -49,7 +49,7 @@ I enjoy projects that combine **technical execution** with **strategic planning*
 ### **Backend & Databases**
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,postgres" />
 
-### **Design & PM**
+### **Design & Project Management**
 <img src="https://skillicons.dev/icons?i=figma,jira,trello" />
 
 </div>
@@ -57,11 +57,11 @@ I enjoy projects that combine **technical execution** with **strategic planning*
 ---
 
 ## 🎯 Currently Exploring
-- 🚀 **Cloud & full-stack architectures**  
-- 🧠 **AI/ML integration in real apps**  
-- 🔎 **Data analytics & decision support**  
-- 📈 **Agile team management**  
-- 🤖 **Automation in engineering & business**
+- 🚀 **Full-Stack architectures** and scalable cloud systems  
+- 🧠 **AI & ML integration** in real-world applications  
+- 🔎 **Data analytics** and decision-support systems  
+- 📈 **Agile project management** and team coordination  
+- 🤖 **Intelligent automation** for engineering and business workflows  
 
 ---
 
