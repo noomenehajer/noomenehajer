@@ -3,8 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=800&color=FF85C2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hajer+%F0%9F%8C%B8;Software+Engineer+%26+AI+Developer+%E2%9C%A8;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
+<br/>
 
 <img src="https://i.pinimg.com/736x/bd/0a/c1/bd0ac111fbd5b08ce65fea05641dabca.jpg" width="160" style="border-radius: 50%; margin: 16px;"/>
+
+<br/>
 
 <h3>Final-Year Engineering Student · Full-Stack Developer · AI Enthusiast</h3>
 
