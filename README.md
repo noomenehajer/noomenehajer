@@ -51,17 +51,6 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Contribution Graph -->
-<img src="https://ghchart.rshah.org/noomenehajer" alt="Hajer's GitHub chart" width="600"/>
-<br>
-</div>
-
----
-
 ## 🎯 Currently Exploring
 
 - 🚀 **Full-Stack architectures** and scalable cloud systems  
