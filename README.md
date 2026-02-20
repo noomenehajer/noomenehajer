@@ -1,14 +1,24 @@
+<div align="center">
+
+<img src="https://i.pinimg.com/736x/72/7a/5e/727a5e98bf4d97c8d448215b96ee736f.jpg" width="200" style="border-radius: 50%;" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=800&color=FF85C2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hajer+%F0%9F%8C%B8;Software+Engineer+%26+AI+Developer+%E2%9C%A8;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+
+*Made with 💖 by Hajer*
+
+</div>
+
 <h1 align="center">👋 Hey, I'm Hajer Noomene</h1>
 <h3 align="center">Final-Year Engineering Student | Software Engineer | Full-Stack & AI Developer</h3>
 <p align="center">Turning ideas into scalable, intelligent, and user-friendly software 🚀</p>
 <p align="center">
-  
 🌍 Based in Tunisia <br>
 🎓 Final-Year Engineering Student in Advanced Technologies at ENSTA Borj Cedria <br>
 💻 Bachelor's in Information Systems Development from ISET Bizerte <br>
-✨ Passionate about building **scalable, full-stack, and AI-driven software solutions** <br>
-🚀 Seeking opportunities in **Software Engineering, Full-Stack Development, AI, and Project Management**
+✨ Passionate about building <strong>scalable, full-stack, and AI-driven software solutions</strong> <br>
+🚀 Seeking opportunities in <strong>Software Engineering, Full-Stack Development, AI, and Project Management</strong>
 </p>
+
 ---
 
 ## 👩‍🎓 About Me
@@ -31,15 +41,20 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 
 ## 🛠 Tech Toolbox
 
-<div align="left">
+<div align="center">
+
 ### **Core Languages & Tools**
 <img src="https://skillicons.dev/icons?i=python,java,cpp,r,matlab,git" />
+
 ### **Web & Mobile Development**
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,angular,nodejs,php,flutter,androidstudio" />
+
 ### **Backend & Databases**
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,postgres" />
+
 ### **Design & Project Management**
 <img src="https://skillicons.dev/icons?i=figma,jira,trello" />
+
 </div>
 
 ---
@@ -56,7 +71,7 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 
 ## 📫 Let's Connect
 
-<div align="left">
+<div align="center">
 <a href="mailto:hajer.noomene@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"/>
 </a>
@@ -67,6 +82,9 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333&logoColor=white&style=for-the-badge"/>
 </a>
 </div>
+
 <br clear="both">
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-------------------------------------------------
+</div>
