@@ -37,18 +37,21 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 ---
 
 ## 🛠 Tech Toolbox
-<div align="center">
+
+<div align="left">
+
 ### **Core Languages & Tools**
 <img src="https://skillicons.dev/icons?i=python,java,cpp,r,matlab,git" />
-<br>
-### **Web & Mobile Development**
+
+### **Web & Mobile**
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,angular,nodejs,php,flutter,androidstudio" />
-<br>
+
 ### **Backend & Databases**
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,postgres" />
-<br>
+
 ### **Design & Project Management**
-<img src="https://skillicons.dev/icons?i=figma,adobexd,jira,trello" />
+<img src="https://skillicons.dev/icons?i=figma,jira,trello" />
+
 </div>
 
 ---
