@@ -17,17 +17,7 @@
   🔍 Open to Software Engineering & AI Roles
 </p>
 
-<p align="center">
-  <a href="mailto:hajer.noomene@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hajer-noomene">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/noomenehajer">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333&logoColor=white&style=for-the-badge"/>
-  </a>
-</p>
+<br/>
 
 </div>
 
