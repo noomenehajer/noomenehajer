@@ -30,14 +30,16 @@
 
 ---
 
-## 👩‍🎓 About Me
+<h2 align="center">👩‍🎓 About Me</h2>
+
 I am a **final-year engineering student** with a strong focus on **software engineering, full-stack development, and AI-driven applications**.  
 I design and build scalable web applications that combine **robust backend systems**, **interactive frontends**, and **intelligent data-driven features**.  
 Beyond coding, I am deeply interested in **product vision, agile methodologies, and team coordination**, enjoying projects that require both **strategic thinking** and **technical execution**.
 
 ---
 
-## 👩‍💻 What I Build
+<h2 align="center">👩‍💻 What I Build</h2>
+
 - 💡 **AI-powered applications** and intelligent automation systems  
 - 🔧 **Scalable and maintainable backend architectures**  
 - 🎨 **Clean and interactive full-stack experiences**  
@@ -46,9 +48,9 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 
 ---
 
-## 🛠 Tech Toolbox
+<h2 align="center">🛠 Tech Toolbox</h2>
 
-<div align="left">
+<div align="center">
 
 ### **Core Languages & Tools**
 <img src="https://skillicons.dev/icons?i=python,java,cpp,r,matlab,git" />
@@ -66,7 +68,8 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 
 ---
 
-## 🎯 Currently Exploring
+<h2 align="center">🎯 Currently Exploring</h2>
+
 - 🚀 **Full-Stack architectures** and scalable cloud systems  
 - 🧠 **AI & ML integration** in real-world applications  
 - 🔎 **Data analytics** and decision-support systems  
@@ -75,7 +78,8 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 
 ---
 
-## 📫 Let's Connect
+<h2 align="center">📫 Let's Connect</h2>
+
 <div align="center">
 <a href="mailto:hajer.noomene@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"/>
