@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding Hijabi Girl" />
+</div>
+###
+
 <h1 align="center">👋 Hey, I'm Hajer Noomene</h1>
 <h3 align="center">Final-Year Engineering Student | Software Engineer | Full-Stack & AI Developer</h3>
 <p align="center">Turning ideas into scalable, intelligent, and user-friendly software 🚀</p>
