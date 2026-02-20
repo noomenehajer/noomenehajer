@@ -2,20 +2,30 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=800&color=FF85C2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hajer+%F0%9F%8C%B8;Software+Engineer+%26+AI+Developer+%E2%9C%A8;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 
-</div>
+<br/>
 
-<div align="center">
-<img src="https://i.pinimg.com/736x/72/7a/5e/727a5e98bf4d97c8d448215b96ee736f.jpg" width="200" align="right" style="border-radius: 15px; margin-left: 20px;">
-<h1>👋 Hey, I'm Hajer Noomene</h1>
-<h3>Final-Year Engineering Student | Software Engineer | Full-Stack & AI Developer</h3>
-<p>Turning ideas into scalable, intelligent, and user-friendly software 🚀</p>
+<img src="https://i.pinimg.com/736x/72/7a/5e/727a5e98bf4d97c8d448215b96ee736f.jpg" width="160" style="border-radius: 50%; margin: 16px;"/>
+
+<h3>Final-Year Engineering Student · Full-Stack Developer · AI Enthusiast</h3>
+
 <p>
-🌍 Based in Tunisia <br>
-🎓 Final-Year Engineering Student in Advanced Technologies at ENSTA Borj Cedria <br>
-💻 Bachelor's in Information Systems Development from ISET Bizerte <br>
-✨ Passionate about building <b>scalable, full-stack, and AI-driven software solutions</b> <br>
-🚀 Seeking opportunities in <b>Software Engineering, Full-Stack Development, AI, and Project Management</b>
+  🌍 Tunisia &nbsp;|&nbsp;
+  🎓 ENSTA Borj Cedria &nbsp;|&nbsp;
+  🔍 Open to Software Engineering & AI Roles
 </p>
+
+<p align="center">
+  <a href="mailto:hajer.noomene@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hajer-noomene">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/noomenehajer">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
 </div>
 
 ---
