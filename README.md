@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://i.pinimg.com/736x/72/7a/5e/727a5e98bf4d97c8d448215b96ee736f.jpg" width="160" style="border-radius: 50%; margin: 16px;"/>
+<img src="https://i.pinimg.com/736x/bd/0a/c1/bd0ac111fbd5b08ce65fea05641dabca.jpg" width="160" style="border-radius: 50%; margin: 16px;"/>
 
 <h3>Final-Year Engineering Student · Full-Stack Developer · AI Enthusiast</h3>
 
