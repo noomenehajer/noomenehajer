@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Hajer Noomene</h1>
-<h3 align="center">Final-Year Engineering Student | Software Engineer | Full-Stack & AI Developer | Project Management Enthusiast</h3>
+<h3 align="center">Final-Year Engineering Student | Software Engineer | Full-Stack & AI Developer</h3>
 
 <p align="center">
 🌍 Based in Tunisia <br>
