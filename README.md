@@ -35,7 +35,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-I am a **Junior Software Engineer**, recently graduated with a National Engineering Degree in Advanced Technologies from the École Nationale des Sciences et Technologies Avancées de Borj Cédria, following a Bachelor's degree in Information Systems Development.
+I am a **Junior Software Engineer**, recently graduated with a National Engineering Degree in Advanced Technologies from the National School of Advanced Sciences and Technologies of Borj Cedria, following a Bachelor's degree in Information Systems Development.
 
 My experience spans **full-stack development, microservices architecture, and AI-driven applications**, from building responsive web interfaces and robust backend services to integrating intelligent features into real-world solutions.
 
