@@ -85,3 +85,15 @@ I enjoy turning complex requirements into practical, maintainable software, expl
 ---
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=3000&pause=1000&color=FF85C2&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%8C%B8;Keep+learning%2C+keep+building+%E2%9C%A8;See+you+in+the+next+commit!+%F0%9F%92%97" alt="Thanks for visiting" />
+
+<br/>
+
+<p>Made with Love, by Hajer ♡</p>
+
+</div>
