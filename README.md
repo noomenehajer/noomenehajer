@@ -14,7 +14,7 @@
 
 <p>
   🌍 Tunisia &nbsp;|&nbsp;
-  🎓 École Nationale des Sciences et Technologies Avancées de Borj Cédria &nbsp;|&nbsp;
+  🎓 National School of Advanced Sciences and Technologies of Borj Cedria (ENSTAB) &nbsp;|&nbsp;
   🔍 Open to Software Engineering & AI Opportunities
 </p>
 
