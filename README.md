@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=800&color=FF85C2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hajer+%F0%9F%8C%B8;Software+Engineer+%26+AI+Developer+%E2%9C%A8;Let's+build+something+amazing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=800&color=FF85C2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hajer+%F0%9F%8C%B8;Junior+Software+Engineer+%E2%9C%A8;Full-Stack+%26+AI+Developer+%F0%9F%92%BB;Let's+build+something+amazing!" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -9,12 +10,12 @@
 
 <br/>
 
-<h3>Final-Year Engineering Student · Full-Stack Developer · AI Enthusiast</h3>
+<h3>Junior Software Engineer · Full-Stack Developer · AI Enthusiast</h3>
 
 <p>
   🌍 Tunisia &nbsp;|&nbsp;
-  🎓 ENSTA Borj Cedria &nbsp;|&nbsp;
-  🔍 Open to Software Engineering & AI Roles
+  🎓 École Nationale des Sciences et Technologies Avancées de Borj Cédria &nbsp;|&nbsp;
+  🔍 Open to Software Engineering & AI Opportunities
 </p>
 
 <p align="center">
@@ -32,21 +33,24 @@
 
 ---
 
-<h2 align="center">👩‍🎓 About Me</h2>
+<h2 align="center">👩‍💻 About Me</h2>
 
-I am a **final-year engineering student** with a strong focus on **software engineering, full-stack development, and AI-driven applications**.  
-I design and build scalable web applications that combine **robust backend systems**, **interactive frontends**, and **intelligent data-driven features**.  
-Beyond coding, I am deeply interested in **product vision, agile methodologies, and team coordination**, enjoying projects that require both **strategic thinking** and **technical execution**.
+I am a **Junior Software Engineer**, recently graduated with a National Engineering Degree in Advanced Technologies from the École Nationale des Sciences et Technologies Avancées de Borj Cédria, following a Bachelor's degree in Information Systems Development.
+
+My experience spans **full-stack development, microservices architecture, and AI-driven applications**, from building responsive web interfaces and robust backend services to integrating intelligent features into real-world solutions.
+
+I enjoy turning complex requirements into practical, maintainable software, exploring new technologies, and collaborating with teams to build solutions that create meaningful value. I'm always eager to learn, take on technical challenges, and grow as an engineer.
 
 ---
 
 <h2 align="center">👩‍💻 What I Build</h2>
 
-- 💡 **AI-powered applications** and intelligent automation systems  
-- 🔧 **Scalable and maintainable backend architectures**  
-- 🎨 **Clean and interactive full-stack experiences**  
-- 🤝 **Collaborative solutions** that combine technical depth with thoughtful design  
-- 📈 **Project management workflows** to ensure timely and high-quality delivery  
+- 💻 **Full-stack web applications** with modern frontend and backend technologies
+- 🏗️ **Scalable backend systems** and microservices-based architectures
+- 🧠 **AI-powered applications** integrating machine learning and generative AI
+- 📊 **Data-driven dashboards** for analytics, prediction, and decision support
+- 🔐 **Secure and maintainable solutions** designed around real-world business needs
+- 🤝 **Collaborative projects** built with agile methodologies and continuous learning
 
 ---
 
@@ -61,7 +65,7 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,angular,nodejs,php,flutter,androidstudio,spring,docker" />
 
 ### **Backend & Databases**
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
 
 ### **Design & Project Management**
 <img src="https://skillicons.dev/icons?i=figma,xd,notion,postman" />
@@ -72,11 +76,12 @@ Beyond coding, I am deeply interested in **product vision, agile methodologies, 
 
 <h2 align="center">🎯 Currently Exploring</h2>
 
-- 🚀 **Full-Stack architectures** and scalable cloud systems  
-- 🧠 **AI & ML integration** in real-world applications  
-- 🔎 **Data analytics** and decision-support systems  
-- 📈 **Agile project management** and team coordination  
-- 🤖 **Intelligent automation** for engineering and business workflows  
+- 🚀 **Software architecture** and scalable application design
+- 🧠 **Generative AI and LLM integration** in practical applications
+- ☁️ **Cloud technologies, containerization, and DevOps practices**
+- 📊 **Data analytics** and intelligent decision-support systems
+- 📚 **Continuous learning** through hands-on projects and technical exploration
 
+---
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif"/>
