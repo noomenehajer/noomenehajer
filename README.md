@@ -90,7 +90,7 @@ I enjoy turning complex requirements into practical, maintainable software, expl
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=3000&pause=1000&color=FF85C2&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!; %F0%9F%92%97" alt="Thanks for visiting" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&duration=3000&pause=1000&color=FF85C2&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;+%F0%9F%92%97" alt="Thanks for visiting" />
 
 <br/>
 
